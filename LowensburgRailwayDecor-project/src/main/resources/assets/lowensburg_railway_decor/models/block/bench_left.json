@@ -1,0 +1,265 @@
+{
+  "textures": {
+    "metal": "lowensburg_railway_decor:block/bench_metal",
+    "seat": "lowensburg_railway_decor:block/bench_seat",
+    "particle": "lowensburg_railway_decor:block/bench_metal"
+  },
+  "elements": [
+    {
+      "from": [
+        0.0,
+        7.0,
+        2.0
+      ],
+      "to": [
+        16.0,
+        8.5,
+        14.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#seat"
+        },
+        "east": {
+          "texture": "#seat"
+        },
+        "south": {
+          "texture": "#seat"
+        },
+        "west": {
+          "texture": "#seat"
+        },
+        "up": {
+          "texture": "#seat"
+        },
+        "down": {
+          "texture": "#seat"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        8.5,
+        12.5
+      ],
+      "to": [
+        16.0,
+        15.5,
+        14.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#seat"
+        },
+        "east": {
+          "texture": "#seat"
+        },
+        "south": {
+          "texture": "#seat"
+        },
+        "west": {
+          "texture": "#seat"
+        },
+        "up": {
+          "texture": "#seat"
+        },
+        "down": {
+          "texture": "#seat"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        5.5,
+        3.0
+      ],
+      "to": [
+        16.0,
+        7.0,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        5.5,
+        11.5
+      ],
+      "to": [
+        16.0,
+        7.0,
+        13.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        0.5,
+        0.0,
+        3.0
+      ],
+      "to": [
+        2.0,
+        5.5,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        0.5,
+        0.0,
+        11.5
+      ],
+      "to": [
+        2.0,
+        5.5,
+        13.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        8.5,
+        3.0
+      ],
+      "to": [
+        1.5,
+        11.0,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        0.0,
+        11.0,
+        3.0
+      ],
+      "to": [
+        1.5,
+        12.0,
+        13.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "down": {
+          "texture": "#metal"
+        }
+      }
+    }
+  ]
+}
